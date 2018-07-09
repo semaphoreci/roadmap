@@ -8,7 +8,7 @@ To get a quick overview of what we are working on what is planned check [Roadmap
 
 To share an idea, feature request or bug report please [open an issue](https://github.com/semaphoreci/roadmap/issues).
 
-## Others ways of getting to know Semaphore 2.0 better and to get in touch
+## Get to know Semaphore 2.0 better and get in touch
 
 ### Read documentation
 
