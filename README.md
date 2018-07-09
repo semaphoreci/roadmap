@@ -6,4 +6,4 @@ To get a quick overview of what we are working on what is planned check [Roadmap
 
 ## Issues
 
-To share and idea, feature request or bug report please [open an issue](https://github.com/semaphoreci/roadmap/issues).
+To share an idea, feature request or bug report please [open an issue](https://github.com/semaphoreci/roadmap/issues).
