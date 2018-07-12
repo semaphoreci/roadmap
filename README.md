@@ -2,11 +2,11 @@
 
 ### Changelog
 
-[Changelog](https://github.com/semaphoreci/semaphore/blob/master/CHANGELOG.md)
+To check a timeline of changes check our [changelog](https://github.com/semaphoreci/semaphore/blob/master/CHANGELOG.md).
 
 ### Roadmap
 
-To get a quick overview of what we are working on what is planned check [Roadmap project](https://github.com/semaphoreci/semaphore/projects/1)
+To get a quick overview of what we are working on what is planned check [Roadmap project](https://github.com/semaphoreci/semaphore/projects/1).
 
 ### Issues
 
