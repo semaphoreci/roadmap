@@ -1,12 +1,16 @@
 # Semaphore 2.0
 
+### Changelog
+
+[Changelog](https://github.com/semaphoreci/semaphore/blob/master/CHANGELOG.md)
+
 ### Roadmap
 
-To get a quick overview of what we are working on what is planned check [Roadmap project](https://github.com/semaphoreci/roadmap/projects/1)
+To get a quick overview of what we are working on what is planned check [Roadmap project](https://github.com/semaphoreci/semaphore/projects/1)
 
 ### Issues
 
-To share an idea, feature request or bug report please [open an issue](https://github.com/semaphoreci/roadmap/issues).
+To share an idea, feature request or bug report please [open an issue](https://github.com/semaphoreci/semaphore/issues).
 
 ### Read documentation
 
