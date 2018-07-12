@@ -1,14 +1,12 @@
-# Semaphore 2.0 Roadmap
+# Semaphore 2.0
 
-## Board
+### Roadmap
 
 To get a quick overview of what we are working on what is planned check [Roadmap project](https://github.com/semaphoreci/roadmap/projects/1)
 
-## Issues
+### Issues
 
 To share an idea, feature request or bug report please [open an issue](https://github.com/semaphoreci/roadmap/issues).
-
-## Get to know Semaphore 2.0 better and get in touch
 
 ### Read documentation
 
