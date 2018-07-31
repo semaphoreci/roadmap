@@ -22,4 +22,4 @@ Visit [the link](https://semaphorecommunity.slack.com/join/shared_invite/enQtMzk
 
 ### Send us an email
 
-[Email](mailto:support@semaphoreci.com) will reach our support team inbox and they we do their best to help you directly or connect you with engineering team.
+[Email](mailto:support@semaphoreci.com) will reach our support team inbox and they will do their best to help you directly or connect you with engineering team.
