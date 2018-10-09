@@ -26,4 +26,4 @@ Visit [the link](https://semaphorecommunity.slack.com/join/shared_invite/enQtMzk
 
 ### Semaphore Uncut
 
-If you've missed one of the episodes of our regular weekly webcasts on what's new in Semaphore, no worries. [On this playlist](https://www.youtube.com/watch?v=pdiMpi1HRnU&list=PL9pxz3ccLeuggNBKZI2wWlC6xyz1kIws6) you'll find the recordings of all previous episodes.
+If you've missed one of the episodes of our regular weekly live stream on what's new in Semaphore, no worries. [On this playlist](https://www.youtube.com/watch?v=pdiMpi1HRnU&list=PL9pxz3ccLeuggNBKZI2wWlC6xyz1kIws6) you'll find the recordings of all previous episodes.
