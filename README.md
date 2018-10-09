@@ -23,3 +23,7 @@ Visit [the link](https://semaphorecommunity.slack.com/join/shared_invite/enQtMzk
 ### Send us an email
 
 [Email](mailto:support@semaphoreci.com) will reach our support team inbox and they will do their best to help you directly or connect you with engineering team.
+
+### Semaphore Uncut
+
+If you've missed one of the episodes of our regular weekly webcasts on what's new in Semaphore, no worries. [On this playlist](https://www.youtube.com/watch?v=pdiMpi1HRnU&list=PL9pxz3ccLeuggNBKZI2wWlC6xyz1kIws6) you'll find the recordings of all previous episodes.
