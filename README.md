@@ -2,7 +2,7 @@
 
 ### Changelog
 
-To check a timeline of changes check our [changelog](https://github.com/semaphoreci/semaphore/blob/master/CHANGELOG.md).
+To check a timeline of changes check our [changelog](https://docs.semaphoreci.com/article/113-changelog).
 
 ### Roadmap
 
