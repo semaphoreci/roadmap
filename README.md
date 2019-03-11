@@ -1,20 +1,19 @@
 # Semaphore 2.0
 
-### Changelog
-
-To check a timeline of changes check our [changelog](https://docs.semaphoreci.com/article/113-changelog).
-
-### Roadmap
-
-To get a quick overview of what we are working on what is planned check [Roadmap project](https://github.com/semaphoreci/semaphore/projects/1).
-
-### Issues
-
-To share an idea, feature request or bug report please [open an issue](https://github.com/semaphoreci/semaphore/issues).
+[Semaphore](https://semaphoreci.com) is a CI/CD service.
+This document outlines the most useful resources to new users.
 
 ### Read documentation
 
-We are doing our best to document all the features. Please [check documentation](https://docs.semaphoreci.com) and reach out if you find anything that is missing.
+[Semaphore documentation](https://docs.semaphoreci.com) provides a getting-started guide, tutorials and a detailed product reference.
+
+### Changelog
+
+To check a timeline of changes see the [product changelog](https://docs.semaphoreci.com/article/113-changelog).
+
+### Roadmap
+
+To get a quick overview of what we are working o andn what is planned, check [Roadmap project](https://github.com/semaphoreci/semaphore/projects/1).
 
 ### Join Slack community
 
