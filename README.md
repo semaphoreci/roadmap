@@ -13,7 +13,7 @@ To check a timeline of changes see the [product changelog](https://docs.semaphor
 
 ### Roadmap
 
-To get a quick overview of what we are working o andn what is planned, check [Roadmap project](https://github.com/semaphoreci/semaphore/projects/1).
+To get a quick overview of what we are working on and what is planned, check [Roadmap project](https://github.com/semaphoreci/semaphore/projects/1).
 
 ### Join Slack community
 
