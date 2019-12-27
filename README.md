@@ -17,7 +17,7 @@ To get a quick overview of what we are working on and what is planned, check [Ro
 
 ### Join Slack community
 
-Visit [the link](https://semaphorecommunity.slack.com/join/shared_invite/enQtMzk1MzI5NjE4MjI5LWY3Nzk4ZGM2ODRmMDVjYmIwZGFhMWI0ZDYyOWIxMGI1ZjFlODU1OTZiZWM3OGVkZjBmMWRiNWYzNjA4MjM2MTA) to jump into our community channel and join the discussion.
+Visit [the link](https://join.slack.com/t/semaphorecommunity/shared_invite/enQtMzk1MzI5NjE4MjI5LTg3MDcyNTg0ZWFjNTI1Y2U1NGEyZDBlNjhlZGM0ZjcxMmMxZDY5ZGYzM2RkM2VhNzgzNzI3YTk5ZDIzZjdhNGM) to jump into our community channel and join the discussion.
 
 ### Send us an email
 
